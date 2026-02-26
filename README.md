@@ -1,5 +1,7 @@
-## Hi there 👋
+## Benvinguts 👋
 
+- 🔭 I’m currently working on: magatzapi
+- 🌱 I’m currently learning c#, kotlin, unity3d, etc. 
 <!--
 **icarpinterodev/icarpinterodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
