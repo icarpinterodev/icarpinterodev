@@ -1,4 +1,4 @@
-## Benvinguts...
+## Hello
 > [!NOTE]
 > - 🔭 I’m currently working on: magatzapi
 > - 🌱 I’m currently learning c#, .NET tools, kotlin, unity3d, etc. 
